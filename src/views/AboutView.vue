@@ -101,7 +101,7 @@ export default {
         {
           id: 7,
           name: 'Canva',
-          imageUrl: 'https://freelogopng.com/images/all_img/1656733637logo-canva-png.png',
+          imageUrl: 'https://static-cse.canva.com/blob/1148850/image2.png',
           status: 'Design'
         }
       ]
