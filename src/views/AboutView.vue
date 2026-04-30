@@ -44,20 +44,14 @@ export default {
         },
         {
           id: 7,
-          name: 'Ionic',
-          imageUrl: 'https://static-00.iconduck.com/assets.00/ionic-icon-2048x2048-lmy3f68o.png',
-          status: 'beginner'
-        },
-        {
-          id: 8,
           name: 'ReactJS',
           imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
           status: 'Beginner'
         },
         {
-          id: 9,
+          id: 8,
           name: 'Laravel',
-          imageUrl: 'https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png',
+          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/3840px-Laravel.svg.png',
           status: 'Beginner'
         }
       ],
@@ -65,7 +59,7 @@ export default {
         {
           id: 1,
           name: 'VS Code',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png',
+          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/500px-Visual_Studio_Code_1.35_icon.svg.png',
           status: 'Code Editor'
         },
         {
@@ -88,18 +82,12 @@ export default {
         },
         {
           id: 5,
-          name: 'Adobe Illustrator',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png',
-          status: 'Design'
-        },
-        {
-          id: 6,
           name: 'Figma',
           imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png',
           status: 'Design'
         },
         {
-          id: 7,
+          id: 6,
           name: 'Canva',
           imageUrl: 'https://static-cse.canva.com/blob/1148850/image2.png',
           status: 'Design'
@@ -137,8 +125,8 @@ export default {
           </p>
           <p class="mb-3 fadein-left fadeins-2">
             Email: {{ email }} <br>
-            Phone: <a href="https://wa.me/+6288808982860" target="_blank" class="text-blue-200 underline">+62
-              888-0898-2860</a>
+            Phone: <a href="https://wa.me/+6282320534392" target="_blank" class="text-blue-200 underline">+62
+              823-2053-4392</a>
           </p>
         </div>
       </section>
