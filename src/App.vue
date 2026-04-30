@@ -12,7 +12,7 @@
           <a href="https://www.linkedin.com/in/amir-syahrul-ramadhan-9a61b124a"><img class="w-9 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?_=20140125013055" alt="linkedin"></a>
           <a href="https://www.instagram.com/amirsyahrulramadhan?igsh=MXQwZzdvc3F3MDBsNg=="><img class="w-9 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram"></a>
           <a href="https://www.behance.net/amirsyramadha"><img class="w-9 rounded-full" src="https://w7.pngwing.com/pngs/1006/258/png-transparent-behance-logo-icon.png" alt="github"></a>
-          <a href="https://github.com/amirsr43"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
+          <a href="https://github.com/amirsr43"><img class="w-9 rounded-full" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github"></a>
         </div>
         <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">
           <ul class="flex-col md:flex-row flex md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium">
