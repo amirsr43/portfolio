@@ -9,8 +9,8 @@
           <span class="self-center text-lg text-[#7489ff] font-semibold whitespace-nowrap fadein-bot hover:text-blue-100">Amir Syahrul Ramadhan</span>
         </button>
         <div class="flex md:order-2 fadein-bot space-x-4">
-          <a href="https://www.linkedin.com/in/amir-syahrul-ramadhan-9a61b124a"><img class="w-9 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="linkedin"></a>
-          <a href="https://www.instagram.com/amirsyahrulramadhan?igsh=MXQwZzdvc3F3MDBsNg=="><img class="w-9 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" alt="instagram"></a>
+          <a href="https://www.linkedin.com/in/amir-syahrul-ramadhan-9a61b124a"><img class="w-9 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?_=20140125013055" alt="linkedin"></a>
+          <a href="https://www.instagram.com/amirsyahrulramadhan?igsh=MXQwZzdvc3F3MDBsNg=="><img class="w-9 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram"></a>
           <a href="https://www.behance.net/amirsyramadha"><img class="w-9 rounded-full" src="https://w7.pngwing.com/pngs/1006/258/png-transparent-behance-logo-icon.png" alt="github"></a>
           <a href="https://github.com/amirsr43"><img class="w-9 rounded-full" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" alt="github"></a>
         </div>
